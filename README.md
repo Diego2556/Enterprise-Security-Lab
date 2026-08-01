@@ -1,35 +1,62 @@
-# Enterprise-Security-Lab
-Laboratório de Infraestrutura e Segurança da Informação utilizando Windows Server 2022.
+# Enterprise Security Lab
 
-## Objetivo
+Laboratório prático de Infraestrutura e Segurança da Informação.
 
-Aprender na prática:
+## Sobre
 
+Este projeto tem como objetivo simular a infraestrutura de uma empresa utilizando Windows Server 2022 em um ambiente virtualizado.
+
+Todo o processo será documentado, desde o planejamento da rede até a implementação dos serviços.
+
+## Objetivos
+
+- Aprender Windows Server 2022
+- Configurar Active Directory
+- Implementar DNS
+- Configurar DHCP
+- Aplicar Group Policy (GPO)
+- Gerenciar permissões NTFS
+- Utilizar PowerShell para administração
+- Aplicar conceitos de Hardening
+- Desenvolver documentação técnica
+
+## Tecnologias
+
+- Oracle VirtualBox
 - Windows Server 2022
-- Active Directory
-- DNS
-- DHCP
-- Group Policy (GPO)
-- Permissões NTFS
-- PowerShell
-- Hardening
-- Monitoramento
-- Segurança da Informação
+- Windows 11 Enterprise
+- Git
+- GitHub
+- Draw.io
 
 ## Status
 
-🚧 Em desenvolvimento
+🚧 Projeto em desenvolvimento.
 
 ## Progresso
 
-- [x] Planejamento
-- [x] Organização do Ambiente
-- [x] Criação do Diagrama
+- [x] Planejamento da infraestrutura
+- [x] Organização do ambiente
+- [x] Criação da topologia inicial
+- [ ] Criação da máquina virtual
 - [ ] Instalação do Windows Server
+- [ ] Configuração da rede
 - [ ] Active Directory
 - [ ] DNS
 - [ ] DHCP
-- [ ] GPO
-- [ ] Compartilhamento
+- [ ] Group Policy (GPO)
+- [ ] Compartilhamento de arquivos
 - [ ] Permissões NTFS
 - [ ] Hardening
+- [ ] PowerShell
+
+## Estrutura do Projeto
+
+```
+Enterprise-Security-Lab
+│
+├── README.md
+├── Documentação
+├── Scripts
+└── Backups
+```
