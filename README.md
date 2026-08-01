@@ -23,6 +23,8 @@ Aprender na prática:
 ## Progresso
 
 - [x] Planejamento
+- [x] Organização do Ambiente
+- [x] Criação do Diagrama
 - [ ] Instalação do Windows Server
 - [ ] Active Directory
 - [ ] DNS
