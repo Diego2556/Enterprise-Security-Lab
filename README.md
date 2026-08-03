@@ -38,11 +38,11 @@ Todo o processo será documentado, desde o planejamento da rede até a implement
 - [x] Planejamento da infraestrutura
 - [x] Organização do ambiente
 - [x] Criação da topologia inicial
-- [ ] Criação da máquina virtual
-- [ ] Instalação do Windows Server
+- [x] Criação da máquina virtual
+- [x] Instalação do Windows Server
 - [ ] Configuração da rede
-- [ ] Active Directory
-- [ ] DNS
+- [x] Active Directory
+- [x] DNS
 - [ ] DHCP
 - [ ] Group Policy (GPO)
 - [ ] Compartilhamento de arquivos

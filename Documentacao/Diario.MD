@@ -10,3 +10,27 @@
 - Download do Windows 11 Enterprise.
 - Criação do repositório no GitHub.
 - Primeiro diagrama da topologia da rede.
+
+## Dia 2 - Active Directory
+
+### Atividades realizadas
+
+- Configuração de IP fixo (192.168.100.10)
+- Instalação da função Active Directory Domain Services (AD DS)
+- Promoção do servidor para Controlador de Domínio
+- Criação do domínio `empresa.local`
+- Exploração inicial da ferramenta Active Directory Users and Computers
+
+### Estrutura observada
+
+- Builtin: grupos internos do Windows.
+- Computers: computadores que ingressam no domínio.
+- Domain Controllers: controladores de domínio.
+- Users: usuários e grupos padrão.
+- ForeignSecurityPrincipals: objetos de outros domínios.
+- Managed Service Accounts: contas gerenciadas para serviços.
+
+### Aprendizados
+
+- O Active Directory centraliza usuários, computadores e políticas da empresa.
+- O servidor SRV-01 agora é o Controlador de Domínio do ambiente `empresa.local`.
