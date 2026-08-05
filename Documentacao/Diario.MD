@@ -35,7 +35,7 @@
 - O Active Directory centraliza usuários, computadores e políticas da empresa.
 - O servidor SRV-01 agora é o Controlador de Domínio do ambiente `empresa.local`.
 
-## Dia 2 - Active Directory
+## Dia 3 - Active Directory
 ## Administração do Active Directory
 
 ### OUs criadas
