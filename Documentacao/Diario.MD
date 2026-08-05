@@ -34,3 +34,24 @@
 
 - O Active Directory centraliza usuários, computadores e políticas da empresa.
 - O servidor SRV-01 agora é o Controlador de Domínio do ambiente `empresa.local`.
+
+## Administração do Active Directory
+
+### OUs criadas
+
+- TI
+- RH
+- Financeiro
+- Computadores
+- Servidores
+
+### Usuário criado
+
+- Nome: Diego Pilon
+- Login: diego.pilon
+
+### Aprendizados
+
+- OUs servem para organizar objetos do Active Directory.
+- Usuários do domínio podem fazer login em qualquer computador que pertença ao domínio.
+- O Active Directory centraliza a autenticação dos usuários.
